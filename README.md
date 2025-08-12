@@ -1,4 +1,4 @@
-**********Predicting Mental Health Treatment-Seeking Behavior**********
+# Predicting Mental Health Treatment-Seeking Behavior
 A deep learning project that predicts whether an individual is likely to seek treatment for a mental health condition based on data from a tech workplace survey. This project uses a custom-built neural network with PyTorch and is deployed as an interactive web application using Streamlit.
 
 
